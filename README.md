@@ -1,2 +1,2 @@
 # usc-discussionforum-distribution-hist180
-USC 2018 Fall HIST 180 Discussion Forum Statistics - When do students post on the discussion forum?
+HIST 180 "The Middle East" is a four unit class at USC. Students are requied to post at least five threads about the reading materials on an online discussion forum before the end of the semester. This analysis shows some traits regarding students posting threads. The data is collected two weeks before the end of the semester. Check it out via https://github.com/jiaxuan-lu/usc-discussionforum-distribution-hist180/blob/master/USC%20HIST180%202018%20Fall%20Discussion%20Forum%20Post%20Analysis.ipynb.
